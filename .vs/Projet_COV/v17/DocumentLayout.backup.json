@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Israel TODOME\\source\\repos\\Projet_COV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C51B75-8FE0-4793-BA5F-703CEC0A8D7B}|Projet_COV\\Projet_COV.vcxproj|C:\\Users\\Israel TODOME\\source\\repos\\Projet_COV\\Projet_COV\\COVID.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1C51B75-8FE0-4793-BA5F-703CEC0A8D7B}|Projet_COV\\Projet_COV.vcxproj|solutionrelative:Projet_COV\\COVID.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "COVID.cpp",
+              "DocumentMoniker": "C:\\Users\\Israel TODOME\\source\\repos\\Projet_COV\\Projet_COV\\COVID.cpp",
+              "RelativeDocumentMoniker": "Projet_COV\\COVID.cpp",
+              "ToolTip": "C:\\Users\\Israel TODOME\\source\\repos\\Projet_COV\\Projet_COV\\COVID.cpp",
+              "RelativeToolTip": "Projet_COV\\COVID.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T23:37:40.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
